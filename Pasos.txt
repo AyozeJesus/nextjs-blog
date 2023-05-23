@@ -1,0 +1,14 @@
+Crear aplicacion:
+
+npx create-next-app@latest nextjs-blog --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+
+cd nextjs-blog
+
+npm run dev
+
+crear carpeta posts dentro de pages para otros links, utilizando <Link>
+
+Meterlo en git
+
+git remote add origin https://github.com/AyozeJesus/nextjs-blog.git
+git push -u origin main
